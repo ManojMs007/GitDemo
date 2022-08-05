@@ -62,6 +62,7 @@ public class stepDefination {
 	
 	System.out.println("Comit");
 	
+	System.out.println("Develop 2 changes");
 	}
 	@When("User Calls {string} with {string} Http Request")
 	public void user_calls_with_http_request(String Resource, String httpreq) {
