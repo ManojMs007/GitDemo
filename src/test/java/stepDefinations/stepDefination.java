@@ -60,6 +60,8 @@ public class stepDefination {
 	System.out.println("Develop branch changes 1: ");
 	System.out.println("Develop branch changes 1: ");
 	
+	System.out.println("Comit");
+	
 	}
 	@When("User Calls {string} with {string} Http Request")
 	public void user_calls_with_http_request(String Resource, String httpreq) {
